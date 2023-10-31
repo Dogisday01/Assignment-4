@@ -1,4 +1,4 @@
-public class ProductFactory {
+public class ProductFactory implements ProductFactoryInterface{
     public Product createProduct(String type) {
         if ("Pizza".equalsIgnoreCase(type)) {
             return new Pizza();

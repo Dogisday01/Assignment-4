@@ -20,7 +20,6 @@ public class Order {
             product.cook();
             product.pack();
         }
-        // Здесь можно добавить дополнительную логику для обработки заказа, если необходимо.
         notifyObservers();
     }
 

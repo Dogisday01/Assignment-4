@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0be4d3-15cd-475c-82f4-8fc99b1784ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+    <list default="true" id="dc0be4d3-15cd-475c-82f4-8fc99b1784ac" name="Changes" comment="ordering project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +55,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698740636116</updated>
-      <workItem from="1698740637187" duration="1956000" />
+      <workItem from="1698740637187" duration="2145000" />
     </task>
+    <task id="LOCAL-00001" summary="ordering project">
+      <option name="closed" value="true" />
+      <created>1698742685609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698742685609</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ordering project">
+      <option name="closed" value="true" />
+      <created>1698742736658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698742736658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ordering project" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordering project" />
   </component>
 </project>

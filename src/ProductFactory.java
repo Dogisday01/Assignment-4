@@ -7,7 +7,6 @@ public class ProductFactory {
         } else if ("Beverage".equalsIgnoreCase(type)) {
             return new Beverage();
         }
-        // Добавьте другие типы продуктов по мере необходимости
         return null;
     }
 }
